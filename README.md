@@ -39,8 +39,7 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" />
-<img src="./profile/top-langs.svg" width="39%" />
+<img src="./profile/top-langs.svg" width="45%" />
 
 <img src="https://streak-stats.demolab.com?user=ADAM11X&theme=tokyonight&hide_border=true" width="65%" />
 
