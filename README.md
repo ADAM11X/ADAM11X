@@ -39,8 +39,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ADAM11X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAM11X&layout=compact&theme=tokyonight&hide_border=true" width="39%" />
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="39%" />
 
 <img src="https://streak-stats.demolab.com?user=ADAM11X&theme=tokyonight&hide_border=true" width="65%" />
 
