@@ -161,7 +161,6 @@ My goal is to build the technical foundation required for a **Data Engineering i
 * Learning how real-world data systems are designed
 
 ---
-
 ## 📫 Connect With Me
 
 📧 **Email:** [harakatadam02@gmail.com](mailto:harakatadam02@gmail.com)
@@ -169,7 +168,6 @@ My goal is to build the technical foundation required for a **Data Engineering i
 💼 **LinkedIn:** [Adam Harakat](https://www.linkedin.com/in/adam-harakat-/)
 
 💻 **GitHub:** [ADAM11X](https://github.com/ADAM11X)
-
 ---
 
 > *Learning data engineering by building, breaking, debugging, and rebuilding.*
